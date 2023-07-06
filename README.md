@@ -1,7 +1,7 @@
 ## Scrape Job Platform using BeautifulSoup
 
 Platform: Anaconda-Jupyter Notebook
-BeautifulSoup
+Scraping Tool: BeautifulSoup
 Job Platform: Jobstreet
 Keyword: Data Analyst
 

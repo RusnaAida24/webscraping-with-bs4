@@ -13,5 +13,5 @@ Questions that may arise from the projects
 
 ## Steps
 1) Import libraries <br>
-2) Data Cleaning
+2) Data Cleaning <br>
 3) Data Visualisation
